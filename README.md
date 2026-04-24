@@ -4,3 +4,7 @@ Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framewo
 Referências:
 * Introducing SQL MCP Server: https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/
 * Data API builder documentation: https://learn.microsoft.com/en-us/azure/data-api-builder/
+
+Exemplo de trace gerado pela aplicação de testes:
+
+![Trace no Grafana Tempo](img/trace-tempo-01.png)
